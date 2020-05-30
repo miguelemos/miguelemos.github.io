@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+
+    <title>Miguel Lemos</title>
+
+    <link rel="icon" type="image/png" href="Projects/logo.jpg">
+
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+
+    <script src="script.js"></script>
+
+</head>
+
+<body>
+
+<!-- SECTION 1 : Intro -->
+<section id="index" class="index">
+    <div class="ctn-section">
+        <h1>Miguel Lemos</h1>
+        <p>Multidisciplinary creator from Porto, Portugal.<br/>
+            Alive for 9217 days.<br/>
+            More info <a class="project-link autolink"
+                         href="about.html"
+                         data-title="About">here</a>. </p>
+
+        <h2>Connect</h2>
+        <ul>
+            <li>
+                <a href="https://github.com/miguelemos">GitHub</a>
+            </li>
+
+            <li>
+                <a href="https://rep.ly/_miguelemos">Reply</a>
+            </li>
+
+            <li>
+                <a href="mailto:miguelemospereira@gmail.com">Contact</a>
+            </li>
+        </ul>
+    </div>
+
+</section>
+
+
+<!-- SECTION 2 : Projects -->
+<section id="lists" class="lists">
+    <div class="ctn-section">
+
+        <nav>
+            <ul class="special-list">
+                <li class="active" data-target="projects">Projects</li>
+            </ul>
+        </nav>
+
+        <ul data-type="projects" class="initial-list list-projects ">
+
+
+            <!-- 6. Playtime -->
+            <li>
+                <p><a class="project-link autolink"
+                      onclick="changePlaytime('playtime')"
+                      data-title="playtime">Playtime</a> is a smartphone application that provides a new way
+                    of communication between sports athletes. Created in 2020.</p>
+            </li>
+
+
+            <!-- 5. Personal Financce Management -->
+            <li>
+                <p><a href="https://route.onl/">PFM</a> is a Web application for personal finance management.
+                    Created in 2020 (link available soon).</p>
+            </li>
+
+
+            <!-- 4. Park in AutoCAD -->
+            <li>
+                <p>Proposed design for a natural park, titled <a class="project-link autolink"
+                                                                 onclick="changePark('park')"
+                                                                 data-title="park">'Greenland'</a>. Created in 2020.</p>
+            </li>
+
+
+            <!-- 3. NSMMS -->
+            <li>
+                <p>A collection of instrumentals composed by me in
+                    2019, entitled <a class="project-link autolink"
+                                      onclick="changeNSMMS('NSMMS')"
+                                      data-title="NSMMS">'Not Smiling Makes Me Smile'</a>.</p>
+            </li>
+
+
+            <!-- 2. Painting -->
+            <li>
+                <p>Painting titled <a class="project-link autolink"
+                                      onclick="changePainting('painting')"
+                                      data-title="Painting">'untitled'</a>. Created in
+                    2019.</p>
+            </li>
+
+
+            <!-- 1. Muse11 -->
+            <li>
+                <p><a href="https://muse11.net/">Muse11</a> is an international composer collective
+                    established in Utrecht in 2018.</p>
+            </li>
+
+
+        </ul>
+
+    </div>
+</section>
+
+
+<!-- SECTION 3 : Projects details -->
+<section id="content" class="content">
+    <div class="ctn-section">
+        <div class="content-placeholder">
+            June, 2020
+        </div>
+
+        <br class="ctn-section">
+        <h1>About me</h1>
+        <p> Software engineer and product developer.<br/>
+        	Background in Software Engineering and Economics.<br/>
+            Passionate about design, technology and history.
+        </p>
+
+        <ul data-type="projects" class="initial-list list-projects">
+
+            <!-- 1. Education -->
+            <li>
+                <p id="education" onclick="changeEducation('education')">
+                    <a class="project-link autolink"
+                       data-title="Education">
+                        Education</a></p>
+            </li>
+
+            <!-- 2. Work -->
+            <li>
+                <p id="work" onclick="changeWork('work')">
+                    <a class="project-link autolink"
+                       data-title="Work">
+                        Work</a> </p>
+            </li>
+
+            <!-- 3. Languages -->
+            <li>
+                <p id="languages" onclick="changeLanguages('languages')">
+                    <a class="project-link autolink"
+                       data-title="Languages">
+                        Languages</a> </p>
+            </li>
+
+            <!-- 4. Interests -->
+            <li>
+                <p id="interests" onclick="changeInterests('interests')">
+                    <a class="project-link autolink"
+                       data-title="Intersts">
+                        Interests</a> </p>
+            </li>
+
+            <!-- 5. Others -->
+            <li>
+                <p id="others" onclick="changeOthers('others')">
+                    <a class="project-link autolink"
+                       data-title="Others">
+                        Others</a> </p>
+            </li>
+
+        </ul>
+
+    </div>
+
+
+</section>
+
+</body>
+
+</html>
