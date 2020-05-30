@@ -99,7 +99,7 @@ function changePark(content) {
     <div class="ctn-section">
         </br> </br>
     <picture a class="image">
-        <img src="Projects/Park.jpg" alt="Park" style="padding-left: 0em; width:350px;";>
+        <img src="Projects/park.jpg" alt="park" style="padding-left: 0em; width:350px;";>
 </picture>
 
     <p></br>Prototype version/sketch of a conceptual park.</p>
