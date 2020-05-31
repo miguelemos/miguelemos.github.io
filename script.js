@@ -123,7 +123,8 @@ function changeNSMMS(content) {
         <img src="Projects/NSMMS.jpg" alt="NSMMS" style="padding-left: 0em; width:350px;";>
 </picture>
 
-    <p></br>Released May 2020. Available in all streaming platforms.</p>
+    <p></br>Released May 2020. Available <a href="https://distrokid.com/hyperfollow/doorsopendoors/not-smiling-makes-me-smile">in all streaming platforms
+</a>.</p>
     </div>
     </div> `
 }
