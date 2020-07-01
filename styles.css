@@ -692,4 +692,5 @@ a:visited {
 .project-link {
     color: lightslategrey;
     font-weight: 600;
+    cursor: pointer
 }
