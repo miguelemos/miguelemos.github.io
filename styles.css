@@ -211,12 +211,16 @@ a {
 a:hover {
     background: #f3f3f3;
     border-bottom: 2px solid #f3f3f3
+    font-weight: bold;
+    color: pink;
 }
 
 @media (max-width:960px) {
     a:hover {
         background: 0 0;
         border-bottom: 2px solid transparent
+        font-weight: bold;
+        color: pink;
     }
 }
 
@@ -673,11 +677,6 @@ footer {
 
 .content-text .footnotes .footnotereverse:hover {
     color: #000
-}
-
-.a {
-    font-weight: bold;
-    color: pink;
 }
 
 
