@@ -675,10 +675,21 @@ footer {
     color: #000
 }
 
+/* unvisited link */
 a:link {
-  background-color: yellow;
-  color: pink;
-  font-weight: bold;
+    color: lightslategrey;
+    font-weight: bold;
+}
+
+/* visited link */
+a:visited {
+    color: lightslategrey;
+    font-weight: bold;
 }
 
 
+/* autolink */
+.project-link {
+    color: lightslategrey;
+    font-weight: 600;
+}
