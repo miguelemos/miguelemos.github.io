@@ -74,7 +74,7 @@ function changePlaytime(content) {
     if (content === "playtime")
         document.getElementById("content").innerHTML = ` <div class="ctn-section">
         <div class="content-placeholder">
-        June, 2020
+        Project Detail
     </div>
 
     <div class="ctn-section">
@@ -93,7 +93,7 @@ function changePark(content) {
     if (content === "park")
         document.getElementById("content").innerHTML = ` <div class="ctn-section">
         <div class="content-placeholder">
-        June, 2020
+        Project Detail
     </div>
 
     <div class="ctn-section">
@@ -114,7 +114,7 @@ function changeNSMMS(content) {
     if (content === "NSMMS")
         document.getElementById("content").innerHTML = ` <div class="ctn-section">
         <div class="content-placeholder">
-        June, 2020
+        Project Detail
     </div>
 
     <div class="ctn-section">
@@ -136,7 +136,7 @@ function changePainting(content) {
     if (content === "painting")
         document.getElementById("content").innerHTML = ` <div class="ctn-section">
         <div class="content-placeholder">
-        June, 2020
+        Project Detail
     </div>
 
     <div class="ctn-section">
@@ -152,10 +152,3 @@ function changePainting(content) {
     </div> `
 
 }
-
-
-
-
-
-
-
