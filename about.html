@@ -116,7 +116,11 @@
 <section id="content" class="content">
     <div class="ctn-section">
         <div class="content-placeholder">
-            June, 2020
+            <p><span id="datetime"></span></p>
+            <script>
+                var dt = new Date();
+                document.getElementById("datetime").innerHTML = dt.toDateString();
+            </script>
         </div>
 
         <br class="ctn-section">
