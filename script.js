@@ -6,9 +6,7 @@ function changeEducation(content) {
         document.getElementById("education").innerHTML = ` <div class="project-link autolink">
         Education
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>PG Software Engineering | ISEP (2019-20)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>MSc Management | University of Bradford (2016-17)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>BSc Economics | FEP.UP (2012-16)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Economics (2016) & Software Engineering (2020)</p>
     </div>
     </div> `
 }
