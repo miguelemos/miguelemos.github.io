@@ -6,7 +6,7 @@ function changeEducation(content) {
         document.getElementById("education").innerHTML = ` <div class="project-link autolink">
         Education
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Economics (2016) & Software Engineering (2020)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Economics (2016) & Software Engineering (2020)</p></br>
     </div>
     </div> `
 }
@@ -16,7 +16,8 @@ function changeWork(content) {
         document.getElementById("work").innerHTML = ` <div class="project-link autolink">
         Work
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Founder | Playtime (2020 - present)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>QA Developer | FMQ (2020 - present)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Developer | Playtime (2020)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | PwC (2017-19)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | Jeronimo Martins (2016)</p></br>
     </div>
