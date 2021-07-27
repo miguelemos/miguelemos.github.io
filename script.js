@@ -79,8 +79,8 @@ function changeBike(content) {
     <div class="ctn-section">
         </br> </br>
 
-        <p>Personal project to experiment and learn more about the Ethereum ecosystem.</br>
-       I plan to do the following activities:</br></p>
+        <p>Personal project to experiment and learn more about the Ethereum ecosystem.</br></br>
+            I plan to do the following activities:</p>
        <ul>
             <li>smart contract development (Solidity / Hardhat);</li>
             <li>writing tutorials on blockchain technology, with a strong focus on design patterns (best practices) and zero knowledge proofs;</li> 
