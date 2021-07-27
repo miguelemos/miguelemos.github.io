@@ -79,18 +79,8 @@ function changeBike(content) {
     <div class="ctn-section">
         </br> </br>
 
-    <p>Personal project to experiment and learn more about the Ethereum ecosystem.</br>
-       I plan to do the following activities:</br></p>
-       <ul>
-            <li>smart contract development (Solidity / Hardhat);</li>
-            <li>writing tutorials on blockchain technology, with a strong focus on design patterns (best practices) and zero knowledge proofs;</li> 
-            <li>contributing to OSS and making PRs to projects that I consider important;</li>
-            <li>participating in hackathons;</li>
-            <li>solving challenges at Gitcoin / applying for grants;</li>
-            <li>experimenting with mechanism design ideas (especially related to public goods);</li>
-            <li>exploring smart contract security & exploring bug bounty platforms;</li>
-            <li>learning the right tools for security and doing independent audits.</li>
-       </ul> 
+    <p>Currently under development.</br>
+       Soon available in Google Play and App Store.</p>
     </div>
     </div> `
 }
