@@ -67,6 +67,36 @@ function changeOthers(content) {
 
 <!-- SECTION 2 : Projects details -->
 
+<!-- 2.5 BIKE Finance -->
+
+function changeBike(content) {
+    if (content === "bike")
+        document.getElementById("content").innerHTML = ` <div class="ctn-section">
+        <div class="content-placeholder">
+        Project Detail
+    </div>
+
+    <div class="ctn-section">
+        </br> </br>
+
+    <p>Personal project to experiment and learn more about the Ethereum ecosystem.</br>
+       I plan to do the following activities:</br></p>
+       <ul>
+            <li>smart contract development (Solidity / Hardhat);</li>
+            <li>writing tutorials on blockchain technology, with a strong focus on design patterns (best practices) and zero knowledge proofs;</li> 
+            <li>contributing to OSS and making PRs to projects that I consider important;</li>
+            <li>participating in hackathons;</li>
+            <li>solving challenges at Gitcoin / applying for grants;</li>
+            <li>experimenting with mechanism design ideas (especially related to public goods);</li>
+            <li>exploring smart contract security & exploring bug bounty platforms;</li>
+            <li>learning the right tools for security and doing independent audits.</li>
+       </ul> 
+    </div>
+    </div> `
+}
+
+
+
 <!-- 2.4 PlayTime -->
 
 function changePlaytime(content) {
