@@ -81,7 +81,7 @@ function changeBike(content) {
     <div class="ctn-section">
         </br> </br>
 
-        <p>Personal project to experiment, build and learn more about the Ethereum ecosystem.</br></br>
+        <p>Personal project to experiment, build, collaborate and learn more about the Ethereum ecosystem.</br></br>
             I'll be doing the following activities:</p>
        <ul>
             <li>smart contract development (Solidity / Hardhat);</li>
@@ -95,7 +95,8 @@ function changeBike(content) {
             <li>learning the right tools for security and doing audit reports.</li>
        </ul>
        
-       </br><p>Basically, for the next months, my only commitment is learning as much as possible about Ethereum, security and smart contract development.</p>
+       <p>Basically, for the next ~ 6 months, my only commitment is learning as much as possible about Ethereum, Solidity and web3 security 
+       in hopes of (soon) becoming working full-time as a smart contract developer/auditor.</p>
     </div>
     </div> `
 }
