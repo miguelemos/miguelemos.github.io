@@ -6,7 +6,8 @@ function changeEducation(content) {
         document.getElementById("education").innerHTML = ` <div class="project-link autolink">
         Education
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Economics (2016) & Software Engineering (2020)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL"
+        FEP.UP</a> (2016)</br> PG Software Engineering @ ISEP - <a href="https://portotechhub.com/switch/" SWitCH Programme</a> (2020)</p></br>
     </div>
     </div> `
 }
@@ -16,10 +17,10 @@ function changeWork(content) {
         document.getElementById("work").innerHTML = ` <div class="project-link autolink">
         Work
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>QA Engineer | FMQ (2020 - present)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Software Test Engineer | <a href="https://www.fabamaq.com"FABAMAQ</a> (2020 - 2021)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Developer | PlayTime (2020)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | PwC (2017-19)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | Jeronimo Martins (2016)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | <a href="https://www.pwc.com"PwC</a> (2017-19)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | <a href="https://www.jeronimomartins.com/en/"Jeronimo Martins (2016)</p></br>
     </div>
     </div> `
 }
@@ -30,8 +31,8 @@ function changeLanguages(content) {
         document.getElementById("languages").innerHTML = ` <div class="project-link autolink">
         Languages
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>English / Portuguese / French</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Spanish / Italian (basic)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>English / Portuguese (proficient)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Spanish / Italian / French (basic)</p></br>
     </div>
     </div> `
 }
@@ -45,7 +46,8 @@ function changeInterests(content) {
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Favorite album: 808s & Heartbreaks</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Favorite movie: Tree of Life</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Favorite book: there's too many, so I'll just 
-        name drop a couple of my favorite authors - Axel Vervoordt, Yuval Noah Harari, Walter Isaacson, Camila Russo</p></br>
+        name drop a couple of my favorite authors - Axel Vervoordt, Yuval Noah Harari, Walter Isaacson, Camila Russo, David
+        Deutsch, Robert Axelrod</p></br>
     </div>
     </div> `
 }
@@ -55,9 +57,9 @@ function changeOthers(content) {
         document.getElementById("others").innerHTML = ` <div class="project-link autolink">
         Others
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Interested in astronomy and geometry.</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Interested in urban planning.</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>I also enjoy walking and playing the piano.</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Playing tennis is also therapeutic.</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Playing tennis and swimming are both therapeutic.</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Meditation is an important part of my life.</p></br>
     </div>
     </div> `
@@ -79,18 +81,21 @@ function changeBike(content) {
     <div class="ctn-section">
         </br> </br>
 
-        <p>Personal project to experiment and learn more about the Ethereum ecosystem.</br></br>
-            I plan to do the following activities:</p>
+        <p>Personal project to experiment, build and learn more about the Ethereum ecosystem.</br></br>
+            I'm doing the following activities:</p>
        <ul>
             <li>smart contract development (Solidity / Hardhat);</li>
+            <li>developing and building on top of DeFi protocols;</li>
             <li>writing tutorials on blockchain technology, with a strong focus on design patterns (best practices) and zero knowledge proofs;</li> 
             <li>contributing to OSS and making PRs to projects that I consider important;</li>
             <li>participating in hackathons;</li>
             <li>solving challenges at Gitcoin / applying for grants;</li>
-            <li>experimenting with mechanism design ideas (especially related to public goods);</li>
-            <li>exploring smart contract security & exploring bug bounty platforms;</li>
-            <li>learning the right tools for security and doing independent audits.</li>
-       </ul> 
+            <li>experimenting with mechanism design ideas (especially related to public goods / QF);</li>
+            <li>exploring smart contract security & bug bounty platforms (e.g. Immunefi);</li>
+            <li>learning the right tools for security and doing audit reports.</li>
+       </ul>
+       
+       </br></br> <p>Basically, for the next months, my only commitment is learning as much as possible about Ethereum, security and smart contract development.</p>
     </div>
     </div> `
 }
