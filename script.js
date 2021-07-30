@@ -9,8 +9,8 @@ function changeEducation(content) {
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL">
         FEP.UP</a> (2016)
         </br></br>
-        PG Software Engineering @ ISEP @ <a href="https://portotechhub.com/switch/">
-        (SWitCH Programme)</a> (2020)</br>
+        PG Software Engineering @ ISEP <a href="https://portotechhub.com/switch/">
+        (SWitCH Programme)</a> (2020)</br></br>
         </p>
     </div>
     </div> `
