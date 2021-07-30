@@ -1,4 +1,7 @@
-
+<p>         Our painting eventually was featured in 2021 in an 
+            <a href="https://www.independent.co.uk/independentpremium/long-reads/women-slavery-abolition-britain-b1822235.html">article from "The Independent" 
+            newspaper</a>.</p>
+                
 <!-- SECTION 1 : Intro / About Me -->
 
 function changeEducation(content) {
@@ -6,8 +9,8 @@ function changeEducation(content) {
         document.getElementById("education").innerHTML = ` <div class="project-link autolink">
         Education
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL"
-        FEP.UP</a> (2016)</br> PG Software Engineering @ ISEP - <a href="https://portotechhub.com/switch/" SWitCH Programme</a> (2020)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL">
+        FEP.UP</a> (2016)</br> PG Software Engineering @ ISEP - <a href="https://portotechhub.com/switch/"> SWitCH Programme</a> (2020)</p></br>
     </div>
     </div> `
 }
@@ -17,10 +20,10 @@ function changeWork(content) {
         document.getElementById("work").innerHTML = ` <div class="project-link autolink">
         Work
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Software Test Engineer | <a href="https://www.fabamaq.com"FABAMAQ</a> (2020 - 2021)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Software Test Engineer | <a href="https://www.fabamaq.com">FABAMAQ</a> (2020 - 2021)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Developer | PlayTime (2020)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | <a href="https://www.pwc.com"PwC</a> (2017-19)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | <a href="https://www.jeronimomartins.com/en/"Jeronimo Martins (2016)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | <a href="https://www.pwc.com">PwC</a> (2017-19)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | <a href="https://www.jeronimomartins.com/en/">Jeronimo Martins (2016)</p></br>
     </div>
     </div> `
 }
@@ -82,7 +85,7 @@ function changeBike(content) {
         </br> </br>
 
         <p>Personal project to experiment, build and learn more about the Ethereum ecosystem.</br></br>
-            I'm doing the following activities:</p>
+            I'll be doing the following activities:</p>
        <ul>
             <li>smart contract development (Solidity / Hardhat);</li>
             <li>developing and building on top of DeFi protocols;</li>
@@ -95,7 +98,7 @@ function changeBike(content) {
             <li>learning the right tools for security and doing audit reports.</li>
        </ul>
        
-       </br></br> <p>Basically, for the next months, my only commitment is learning as much as possible about Ethereum, security and smart contract development.</p>
+       </br><p>Basically, for the next months, my only commitment is learning as much as possible about Ethereum, security and smart contract development.</p>
     </div>
     </div> `
 }
