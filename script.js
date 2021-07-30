@@ -7,13 +7,11 @@ function changeEducation(content) {
         Education
     <div class="project-link autolink">
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL">
-        FEP.UP</a> (2016)
-        </br>
-        G Software Engineering @ ISEP @ <a href="https://portotechhub.com/switch/">
-        (SWitCH Programme)</a> (2020)
-        </p>
+        FEP.UP</a> (2016)</p>
+	      <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>PG Software Engineering @ ISEP @ <a href="https://portotechhub.com/switch/">
+        (SWitCH Programme)</a> (2020)</p></br>
     </div>
-    </div> `
+    </div> ``
 }
 
 function changeWork(content) {
@@ -24,7 +22,7 @@ function changeWork(content) {
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Software Test Engineer | <a href="https://www.fabamaq.com">FABAMAQ</a> (2020 - 2021)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Developer | PlayTime (2020)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | <a href="https://www.pwc.com">PwC</a> (2017-19)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | <a href="https://www.jeronimomartins.com/en/">Jeronimo Martins (2016)</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | <a href="https://www.jeronimomartins.com/en/">Jeronimo Martins</a> (2016)</p></br>
     </div>
     </div> `
 }
