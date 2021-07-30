@@ -1,6 +1,3 @@
-<p>         Our painting eventually was featured in 2021 in an 
-            <a href="https://www.independent.co.uk/independentpremium/long-reads/women-slavery-abolition-britain-b1822235.html">article from "The Independent" 
-            newspaper</a>.</p>
                 
 <!-- SECTION 1 : Intro / About Me -->
 
