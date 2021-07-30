@@ -176,7 +176,10 @@ function changePainting(content) {
 </picture>
 
     <p></br>Painting based on a Google Doodle from around 2018 and inspired by Kerry James Marshall.</br>
-            </br>Made in collaboration with my father.</p>
+            </br>Made in collaboration with my father.
+            </br>Our painting eventually was featured in 2021 in an 
+            <a href="https://www.independent.co.uk/independentpremium/long-reads/women-slavery-abolition-britain-b1822235.html">article from "The Independent" 
+            newspaper</a>.</p>
     </div>
     </div> `
 
