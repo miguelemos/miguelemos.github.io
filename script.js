@@ -85,22 +85,20 @@ function changeBike(content) {
     <div class="ctn-section">
         </br> </br>
 
-        <p>Personal project to experiment, build, collaborate and learn more about the Ethereum ecosystem.</br></br>
+        <p>A project to experiment, hack and build on the Ethereum ecosystem.</br></br>
             I'll be doing the following activities:</p>
        <ul>
             <li>smart contract development (Solidity / Hardhat);</li>
             <li>developing and building on top of DeFi protocols;</li>
             <li>writing tutorials on blockchain technology, with a strong focus on design patterns (best practices) and zero knowledge proofs;</li> 
-            <li>contributing to OSS and making PRs to projects that I consider important;</li>
-            <li>participating in hackathons;</li>
-            <li>solving challenges at Gitcoin / applying for grants;</li>
-            <li>experimenting with mechanism design ideas (especially related to public goods / QF);</li>
-            <li>exploring smart contract security & bug bounty platforms (e.g. Immunefi);</li>
-            <li>learning the right tools for security and doing audit reports.</li>
+            <li>contributing to OSS / participating in hackathons;</li>
+            <li>experimenting with mechanism design ideas (especially related to public goods / QF);</li>    
+            <li>exploring smart contract security platforms (e.g. Immunefi);</li>
+            <li>applying the right tools for security and doing audit reports;</li>
+            <li>experimenting with cadCAD for economic modelling.</li>   
        </ul>
        
-       <p>Basically, for the next ~ 6 months, my only commitment is learning as much as possible about Ethereum, Solidity and web3 security 
-       in hopes of (soon) becoming working full-time as a smart contract developer/auditor.</p>
+       <p>Life on the metaverse can be <a href="https://youtu.be/UUzsWTunbT4">quite fun</a>!</p>
     </div>
     </div> `
 }
