@@ -48,11 +48,9 @@ function changeInterests(content) {
         document.getElementById("interests").innerHTML = ` <div class="project-link autolink">
         Interests
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Favorite album: 808s & Heartbreaks</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Favorite movie: Tree of Life</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Favorite book: there's too many, so I'll just 
-        name drop a couple of my favorite authors - Axel Vervoordt, Yuval Noah Harari, Walter Isaacson, Camila Russo, David
-        Deutsch, Robert Axelrod</p></br>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Favorite album: "true that" by Michael Cera</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Favorite movie: "Tree of Life" by Terrence Malick</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Favorite book: "Thinking in Systems" by Donella Meadows</p></br>
     </div>
     </div> `
 }
