@@ -6,14 +6,14 @@ function changeEducation(content) {
         document.getElementById("education").innerHTML = ` <div class="project-link autolink">
         Education
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL">
-        FEP.UP</a> (2016)
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>PG Software Engineering @ ISEP <a href="https://portotechhub.com/switch/">
+        (SWitCH Programme)</a> (2020)
         </br></br>
         MSc Management @ <a href="https://www.bradford.ac.uk/external/">
         University of Bradford</a> (2017)
         </br></br>
-        PG Software Engineering @ ISEP <a href="https://portotechhub.com/switch/">
-        (SWitCH Programme)</a> (2020)</br></br>
+        BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL">
+        FEP.UP</a> (2016)</br></br>
         </p>
     </div>
     </div> `
