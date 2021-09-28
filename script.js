@@ -9,6 +9,9 @@ function changeEducation(content) {
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> </br>BSc Economics @ <a href="https://sigarra.up.pt/fep/en/WEB_PAGE.INICIAL">
         FEP.UP</a> (2016)
         </br></br>
+        MSc Management @ <a href="https://www.bradford.ac.uk/external/">
+        University of Bradford</a> (2017)
+        </br></br>
         PG Software Engineering @ ISEP <a href="https://portotechhub.com/switch/">
         (SWitCH Programme)</a> (2020)</br></br>
         </p>
@@ -21,7 +24,7 @@ function changeWork(content) {
         document.getElementById("work").innerHTML = ` <div class="project-link autolink">
         Work
     <div class="project-link autolink">
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Smart Contract Developer | <a href="https://www.bikefinance.org">BIKE Finance</a> (2021 - present)</p>
+        <!-- <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Smart Contract Developer | <a href="https://www.bikefinance.org">BIKE Finance</a> (2021 - present)</p> -->
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Software Test Engineer | <a href="https://www.fabamaq.com">FABAMAQ</a> (2020 - 2021)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Developer | PlayTime (2020)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | <a href="https://www.pwc.com">PwC</a> (2017-19)</p>
