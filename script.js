@@ -119,8 +119,8 @@ function changePlaytime(content) {
     <div class="ctn-section">
         </br> </br>
 
-    <p>Currently under development.</br>
-       Soon available in Google Play and App Store.</p>
+    <p>Developed in 2020, sold in early 2021.</br>
+       For the original concept, please check <a href="https://github.com/miguelemos/playtime">here</a>.</p>
     </div>
     </div> `
 }
