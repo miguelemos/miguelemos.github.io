@@ -24,9 +24,9 @@ function changeWork(content) {
         document.getElementById("work").innerHTML = ` <div class="project-link autolink">
         Work
     <div class="project-link autolink">
-        <!-- <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Smart Contract Developer | <a href="https://www.bikefinance.org">BIKE Finance</a> (2021 - present)</p> -->
+        <!-- <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Researcher (internship) | <a href="https://www.ethereum.org">Ethereum Finance</a> (2021 - present)</p> -->
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'> <br/>Software Test Engineer | <a href="https://www.fabamaq.com">FABAMAQ</a> (2020 - 2021)</p>
-        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Developer | PlayTime (2020)</p>
+        <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Software Developer | PlayTime (2020)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>Consultant | <a href="https://www.pwc.com">PwC</a> (2017-19)</p>
         <p style='font-size: 11px; color: darkgrey; padding-right: 2rem'>HR Analytics | <a href="https://www.jeronimomartins.com/en/">Jeronimo Martins</a> (2016)</p></br>
     </div>
